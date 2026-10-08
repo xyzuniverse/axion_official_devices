@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1781813666,
-            "filename": "axion-2.7-PROXIMA_BETA-20260618-OFFICIAL-VANILLA-tanzanite.zip",
-            "id": "bc93990cbced7bc6cec79cb88ecd3fa3",
+            "datetime": 1791458851,
+            "filename": "axion-2.8-ONEIRA_FINAL-20261008-OFFICIAL-VANILLA-tanzanite.zip",
+            "id": "e39c19972bf6bae2b7adb31c677bcf75",
             "romtype": "OFFICIAL",
-            "size": 1760578424,
-            "url": "https://cdn.axionos.org/tanzanite/axion-2.7-PROXIMA_BETA-20260618-OFFICIAL-VANILLA-tanzanite.zip",
-            "version": "2.7"
+            "size": 1786219768,
+            "url": "https://cdn.axionos.org/tanzanite/axion-2.8-ONEIRA_FINAL-20261008-OFFICIAL-VANILLA-tanzanite.zip",
+            "version": "2.8"
         }
     ]
 }

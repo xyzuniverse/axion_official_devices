@@ -2,6 +2,14 @@ Device: Redmi Note 14 4G
 Device code name: tanzanite
 Device maintainer: Ido
 
+Date - 08/10/2026
+=================
+- UDFPS optimizations
+- USB audio fixups
+- Switch back to prebuilt IMS stack
+- Import hotword blobs (OK/Hey Google)
+- Shipped fenrir
+
 Date - 20/06/2026
 =================
 - Initial release.
